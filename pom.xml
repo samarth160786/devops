@@ -32,7 +32,7 @@
         
     </dependencies>
    <distributionManagement>
-       <repostiory>
+       <repository>
            <id>Nexus</id>
            <url>http://localhost:8081/repository/maven-snapshots/</url>
        </repository>    
