@@ -31,7 +31,12 @@
         
         
     </dependencies>
-    
+   <distrubutionmangement>
+       <repostiory>
+           <id>Nexus</id>
+           <url>http://localhost:8081</url>
+       </repository>    
+   </distributionmangemnet>
 
     <properties>
         <java.version>1.8</java.version>
