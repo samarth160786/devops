@@ -34,7 +34,7 @@
    <distrubutionmangement>
        <repostiory>
            <id>Nexus</id>
-           <url>http://localhost:8081</url>
+           <url>http://localhost:8081/repository/maven-snapshots/</url>
        </repository>    
    </distributionmangemnet>
 
