@@ -31,12 +31,12 @@
         
         
     </dependencies>
-   <distrubutionmangement>
+   <distrubutionManagement>
        <repostiory>
            <id>Nexus</id>
            <url>http://localhost:8081/repository/maven-snapshots/</url>
        </repository>    
-   </distributionmangemnet>
+   </distributionManagemnet>
 
     <properties>
         <java.version>1.8</java.version>
